@@ -29,7 +29,9 @@
   <img src="https://skillicons.dev/icons?i=java,dart,javascript,typescript,php" alt="Languages" />
 
   <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,nextjs" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,nextjs" alt="Frameworks & Libraries" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="45" height="45"/>
+
 
   <h3>Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=vscode,supabase,vercel,vite,firebase,github" alt="Tools & Platforms" />
