@@ -26,15 +26,36 @@
   <h2>🛠️ Technologies & Tools</h2>
 
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,dart,javascript,typescript,php" alt="Languages" />
-
+<div style="display: flex; align-items: center; gap: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45" />
+    
+</div>
   <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,nextjs" alt="Frameworks & Libraries" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="45" height="45"/>
+<div style="display: flex; align-items: center; gap: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs-white" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="45" height="45"/>
+</div>
+
+
+
 
 
   <h3>Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,supabase,vercel,vite,firebase,github" alt="Tools & Platforms" />
+  <div style="display: flex; align-items: center; gap: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45" />
+<img src="https://skillicons.dev/icons?i=firebase,vite,git,github" alt="Tools & Platforms" />
+    
+  </div>
+  
 
   <hr />
 
@@ -42,9 +63,6 @@
   <h3>Featured</h3>
   
   <b><a href="https://github.com/MohamedIsa/project_444">Quiz-App</a></b>: Mobile App that allows users to take quizzes.
-  
-  <b><a href="https://github.com/MohamedIsa/QuizHub">QuizHub</a></b>: Web-Based app to create collaborative quizzes.
-  
   <hr />
 
   <h2>📈 GitHub Stats</h2>
