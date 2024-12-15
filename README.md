@@ -14,7 +14,7 @@
     <br />
     🌱 Currently learning: <b>React.js, Supabase, TypeScript</b>
     <br />
-    🔭 Working on: <a href="https://github.com/MohamedIsa/QuizHub">QuizHub</a>
+    🔭 Working on: <a href="https://github.com/MohamedIsa/Dental-Clinic-System">Dental-Clinic-System</a>
     <br />
     💬 Ask me about: <b>[JavaScript, Web Development, Flutter, etc.]</b>
     <br />
