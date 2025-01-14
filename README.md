@@ -62,9 +62,10 @@
   <h2>🌟 My Projects</h2>
   <h3>Featured</h3>
   
-  <b><a href="https://github.com/MohamedIsa/project_444">Quiz-App</a></b>: Mobile App that allows users to take quizzes.</b>
-  <b><a href="https://github.com/MohammedBaqerAdnan/WebDevolpment_Project">Questionnaire Website</a></b>: Website that allows users taking questionnaires</b>
-  <b><a href="https://github.com/yesAlima/Dental-Clinic-System">Dental Clinic System</a></b>: A cross platform system to allow easy booking appointment management </b>
+<b><a href="https://github.com/MohamedIsa/project_444">Quiz-App</a></b>: Mobile App that allows users to take quizzes.  
+<b><a href="https://github.com/MohammedBaqerAdnan/WebDevolpment_Project">Questionnaire Website</a></b>: Website that allows users to take questionnaires.  
+<b><a href="https://github.com/yesAlima/Dental-Clinic-System">Dental Clinic System</a></b>: A cross-platform system for easy appointment booking and management.
+
   
   <hr />
 
