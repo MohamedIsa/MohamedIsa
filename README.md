@@ -10,11 +10,9 @@
 
   <h2>🚀 About Me</h2>
   <p>
-    🎓 I’m currently studying at <b>University of Bahrain</b>
+    🎓 I’m a fresh Graduate Software Engineer 
     <br />
     🌱 Currently learning: <b>React.js, Supabase, TypeScript</b>
-    <br />
-    🔭 Working on: <a href="https://github.com/MohamedIsa/Dental-Clinic-System">Dental-Clinic-System</a>
     <br />
     💬 Ask me about: <b>[JavaScript, Web Development, Flutter, etc.]</b>
     <br />
