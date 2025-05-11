@@ -12,7 +12,7 @@
   <p>
     🎓 I’m a fresh Graduate Software Engineer 
     <br />
-    🌱 Currently learning: <b>React.js, Supabase, TypeScript</b>
+    🌱 Currently learning: <b>React.js, TypeScript</b>
     <br />
     💬 Ask me about: <b>[JavaScript, Web Development, Flutter, etc.]</b>
     <br />
@@ -48,7 +48,6 @@
   <h3>Tools & Platforms</h3>
   <div style="display: flex; align-items: center; gap: 5px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45" />
 <img src="https://skillicons.dev/icons?i=firebase,vite,git,github" alt="Tools & Platforms" />
     
