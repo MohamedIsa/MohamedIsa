@@ -1,69 +1,67 @@
 <div align="center">
 
-  <h1>Hi there! 👋 Welcome to my GitHub Profile</h1>
+  <h1>Hi, I'm Mohamed 👋</h1>
 
   <p>
-    I'm MohamedIsa, a passionate developer who loves creating and learning new things in the tech world. Here's a little about me:
+    Software engineer focused on <b>mobile</b>: building and shipping cross-platform
+    <b>React Native</b> and <b>Expo</b> apps for iOS and Android.
   </p>
 
   <hr />
 
   <h2>🚀 About Me</h2>
   <p>
-    🎓 I’m a fresh Graduate Software Engineer 
+    📱 Day to day: React Native &amp; Expo apps, from architecture to the App Store and Google Play
     <br />
-    🌱 Currently learning: <b>React.js, TypeScript</b>
+    ⚙️ Release engineering: EAS Build &amp; Submit, mobile CI/CD, OTA updates, multi-environment builds
     <br />
-    💬 Ask me about: <b>[JavaScript, Web Development, Flutter, etc.]</b>
+    🔐 App security: SSL pinning, code obfuscation, secure storage, mobile security testing
     <br />
-    📫 Reach me at: <a href="https://www.linkedin.com/in/mohamed-isa122/">LinkedIn</a>
+    🧩 Backend: Node.js (Fastify, Express) and PostgreSQL on AWS
+    <br />
+    💬 Ask me about: <b>React Native, Expo / EAS, mobile CI/CD, app security</b>
+    <br />
+    📫 Reach me at: <a href="https://mohamedisa.tech">mohamedisa.tech</a> ·
+    <a href="https://linkedin.com/in/mohamed-isa-0110b529b">LinkedIn</a>
   </p>
 
   <hr />
 
-  <h2>🛠️ Technologies & Tools</h2>
+  <h2>🛠️ Technologies &amp; Tools</h2>
 
-  <h3>Languages</h3>
-<div style="display: flex; align-items: center; gap: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45" />
-    
-</div>
-  <h3>Frameworks & Libraries</h3>
-<div style="display: flex; align-items: center; gap: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="angular" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs-white" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="ionic" width="45" height="45"/>
-</div>
+  <h3>Mobile</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" alt="React Native" title="React Native" width="45" height="45" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, Android Studio" />
+  </p>
 
+  <h3>Languages &amp; Web</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" alt="TypeScript, JavaScript, React, Next.js" />
+  </p>
 
+  <h3>Backend &amp; Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,aws" alt="Node.js, Express, PostgreSQL, Firebase, AWS" />
+  </p>
 
-
-
-  <h3>Tools & Platforms</h3>
-  <div style="display: flex; align-items: center; gap: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45" />
-<img src="https://skillicons.dev/icons?i=firebase,vite,git,github" alt="Tools & Platforms" />
-    
-  </div>
-  
+  <h3>Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,linux,vscode" alt="Git, GitHub, Bitbucket, Linux, VS Code" />
+  </p>
 
   <hr />
 
-  <h2>🌟 My Projects</h2>
-  <h3>Featured</h3>
-  
-<b><a href="https://github.com/MohamedIsa/project_444">Quiz-App</a></b>: Mobile App that allows users to take quizzes.  
-<b><a href="https://github.com/MohammedBaqerAdnan/WebDevolpment_Project">Questionnaire Website</a></b>: Website that allows users to take questionnaires.  
-<b><a href="https://github.com/yesAlima/Dental-Clinic-System">Dental Clinic System</a></b>: A cross-platform system for easy appointment booking and management.
+  <h2>🌟 Featured Projects</h2>
 
-  
+  <p>
+    <b><a href="https://github.com/MohamedIsa/QuizApp">Quiz App</a></b>: Flutter app for taking quizzes, with Firebase auth and real-time progress.
+    <br />
+    <b><a href="https://github.com/MohamedIsa/Dental-Clinic-System">Dental Clinic System</a></b>: cross-platform appointment booking with built-in chat.
+    <br />
+    <b><a href="https://github.com/MohammedBaqerAdnan/WebDevolpment_Project">Questionnaire Website</a></b>: web app to create, manage and answer questionnaires.
+  </p>
+
   <hr />
 
   <h2>📈 GitHub Stats</h2>
